@@ -12,13 +12,13 @@ int main()
         cout << "\n\n\t\t__________________________________________";
         cout << "\n\n\n\t\t\t\tLoading   "<<i<<" %"<<endl;
     if (i==10) { cout << "\n\n\t\t\tT            " ;
-                    cout <<"\n\n\n\t\tTO CO DIEU MUON NOI VOI CAU.CAU HAY LANG NGHE NHE!!!   ";
+                    cout <<"\n\n\n\t\tTO CO DIEU MUON NOI VOI CAU.CAU HAY NGHE CHKĨKĨ NHE!!!   ";
                     Sleep(4000);          }
                     if (i==20) {cout <<"\n\n\n\t\tLoading....";
                     Sleep(3000); }
     if (i==30) {
         cout << "\n\n\t\t\tTO                    ";
-        cout << "\n\n\n\t\tNgay tu khi gap cau to da bi cam nang cau mat roi. \n\t\tTo da lo nhu chung ta da tung gap nhau vay!";
+        cout << "\n\n\n\t\tNgay tu khi nhan tin voi cau to da co cam tinh voi cau . \n\t\tTo da lo nhu chung ta da tung gap nhau vay!";
         Sleep(4000);
     }
     if (i==40) {
@@ -253,6 +253,6 @@ int main()
     }
     Sleep(100);
     }
-    cout << "\n\n\n\n\t\t\t------Made By Dong Ngo-------    "<< "\n\n\t\t\tCopyright by Dong Ngo   \n\n\n "<<endl;
+    cout << "\n\n\n\n\t\t\t-------------    "<< "\n\n\t\t\   \n\n\n "<<endl;
     system("pause") ;
 }
